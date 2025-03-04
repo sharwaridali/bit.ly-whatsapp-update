@@ -1,5 +1,7 @@
 # bit.ly/whatsapp-update
-Malicious code to drain your phone battery. *Strictly for educational purposes*
+
+Attackers might send such a link to your device and cause various problems. 
+This is a Malicious code to drain your phone battery instead of whatsapp update. *Strictly for educational purposes*
 There is a scope to improvise this by adding service workers to run in the background while the user doesn't realise the battery is being used up.
 
 Ways to stop if at all anyone tries to run the script.
